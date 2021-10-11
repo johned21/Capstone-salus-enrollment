@@ -4,6 +4,7 @@ use App\Http\Livewire\Home;
 use App\Http\Livewire\About;
 use App\Http\Livewire\LoginForm;
 use App\Http\Livewire\RegisterForm;
+use App\Http\Livewire\Dashboard;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -24,3 +25,5 @@ Route::get('/about', About::class);
 Route::get('/login', LoginForm::class);
 
 Route::get('/register', RegisterForm::class);
+
+Route::get('/dashboard', Dashboard::class);

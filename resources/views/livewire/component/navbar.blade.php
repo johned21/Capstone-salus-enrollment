@@ -1,12 +1,11 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-image: linear-gradient(to right, green, black);">
     <div class="container">
         <a class="navbar-brand">
-        <img src="../img/logo.png" alt="" class="logo">
-        <div class="name">
-            <h1>SALUS INSTITUTE OF TECHNOLOGY, INC.</h1>
-            <p>CABULIJAN, TUBIGON, BOHOL</p>
-        </div>
-      
+            <img src="../img/logo.png" alt="" class="logo">
+            <div class="name">
+                <h1>SALUS INSTITUTE OF TECHNOLOGY, INC.</h1>
+                <p>CABULIJAN, TUBIGON, BOHOL</p>
+            </div>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
