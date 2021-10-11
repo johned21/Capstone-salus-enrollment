@@ -16,6 +16,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
 	<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="{{ asset('css/dashboard-style.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/sidebar-style.css') }}">
 </head>
 
 <style>
