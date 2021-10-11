@@ -45,7 +45,9 @@ a:focus {
 }
 
 .sidebar .logo-content .logo {
-    margin-top: 7%;
+    position: relative;
+    margin-top: 5rem;
+    margin-left: 1%;
     color: #fff;
     display: flex;
     height: 50px;
@@ -58,7 +60,6 @@ a:focus {
 
 .sidebar .logo-content .logo .logo-name {
     font-size: 26px;
-    text-align: center;
     width: auto;
 }
 
@@ -68,11 +69,10 @@ a:focus {
 }
 
 .sidebar #btn-menu {
-    margin-top: 5rem;
-    position: absolute;
+    position: relative;
     color: #fff;
     left: 50%;
-    top: 6px;
+    top: -4rem;
     font-size: 30px;
     height: 50px;
     width: 50px;
@@ -87,7 +87,7 @@ a:focus {
 
 .sidebar ul {
     margin-left: -2rem;
-    margin-top: 13rem;
+    margin-top: -2rem;
 }
 
 .sidebar ul li {

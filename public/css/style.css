@@ -1,6 +1,6 @@
 .bg {
     background-size: cover;
-    position: relative;
+    position: fixed;
 }
 
 @font-face {
@@ -13,7 +13,9 @@
 }
 
 nav {
+    position: absolute;
     height: auto;
+    z-index: 1;
 }
 
 .nav-item a {
@@ -21,7 +23,7 @@ nav {
 }
 
 .navbar-nav li a {
-    font-size: 17px;
+    font-size: 15px;
     color: white !important;
     transition: .5s ease-in-out;
     font-family: 'josefin sans', sans-serif;
@@ -60,17 +62,12 @@ nav {
 .logo {
     height: auto;
     width: auto;
-    margin-top: -6px;
-    position: fixed;
-}
-
-.navbar-brand {
-    margin-left: -4rem;
+    position: absolute;
 }
 
 .name {
     width: auto;
-    height: 50px;
+    height: 40px;
     text-align: center;
     margin-top: 5px;
     color: white;
@@ -87,6 +84,10 @@ nav {
     font-family: Roboto;
     font-size: 5px;
     position: relative;
+}
+
+#card {
+    margin-top: 5rem;
 }
 
 .headerlogo {
@@ -128,7 +129,7 @@ nav {
 
 .regheader h1 {
     font-family: Bernard MT Condensed;
-    font-size: 33px;
+    font-size: 28px;
 }
 
 .regheader p {

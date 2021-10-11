@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 offset-md-3">
-                <br><br><br><br><br>
-                <div class="card" style="margin-left:auto; margin-right:auto;">
+                <br>
+                <div class="card" style="margin-left:auto; margin-right:auto;" id="card">
                     <div class="card-header">
                         <img src="../img/headerlogo.png" alt="" class="headerlogo">
                         <div class="header">

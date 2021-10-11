@@ -45,7 +45,7 @@
 
         </ul>
 
-        <div class="logout-content">
+        <div class="logout-content fixed-bottom">
             <div class="logout">
                 <div class="logout-details">
                     <div class="logout-name">Logout</div>
@@ -55,7 +55,7 @@
         </div>
     </div>
 
-    <div class="dashboard-content">
+    <div class="dashboard-content fixed-top">
         <div class="text">Dashboard</div>
     </div>
 

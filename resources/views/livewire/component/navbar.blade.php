@@ -1,5 +1,5 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-image: linear-gradient(to right, green, black);">
-    <div class="container">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background: #1C7947;">
+    <div class="container-fluid">
         <a class="navbar-brand">
             <img src="../img/logo.png" alt="" class="logo">
             <div class="name">
