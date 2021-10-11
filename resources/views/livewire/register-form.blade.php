@@ -53,8 +53,7 @@
                                 </div>
                                
                                 <button type="submit" class="btn btn-success" id="regbtn">Register</button>
-                                <p style="margin-top:1rem;">Don't have an account yet?</p>
-                                <p style="margin-top:-1rem;">Click <a href="/register">Register</a></p>
+                                
                             </form>
                         </div>
                     </div>

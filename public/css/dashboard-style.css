@@ -34,8 +34,8 @@ a:focus {
     top: 0;
     left: 0;
     height: 100%;
-    width: 70px;
-    background: #11101d;
+    width: 60px;
+    background: #122216;
     padding: 6px;
     transition: all 0.5s ease;
 }
@@ -54,6 +54,12 @@ a:focus {
     opacity: 0;
     pointer-events: none;
     transition: all 0.5s ease;
+}
+
+.sidebar .logo-content .logo .logo-name {
+    font-size: 26px;
+    text-align: center;
+    width: auto;
 }
 
 .sidebar.active .logo-content .logo {
@@ -139,10 +145,11 @@ a:focus {
 .sidebar ul li i {
     margin-left: 11px;
     height: 40px;
-    min-width: 35px;
+    min-width: 10px;
     line-height: 40px;
     text-align: center;
     font-size: 25px;
+    margin-right: 10px;
 }
 
 .sidebar .links-name {
@@ -165,7 +172,7 @@ a:focus {
     border-radius: 12px;
     outline: none;
     border: none;
-    background: #1d1b31;
+    background: #1b3125;
     padding-left: 50px;
     font-size: 18px;
     color: #fff;
@@ -203,7 +210,7 @@ a:focus {
 }
 
 .sidebar.active .logout-content .logout {
-    background: #1d1b31;
+    background: #1b3120;
 }
 
 .logout-content .logout .logout-details {
@@ -235,7 +242,7 @@ a:focus {
     border-radius: 12px;
     text-align: center;
     transition: all 0.4s ease;
-    background: #1d1b31;
+    background: #1b3120;
 }
 
 .sidebar.active .logout #logout {

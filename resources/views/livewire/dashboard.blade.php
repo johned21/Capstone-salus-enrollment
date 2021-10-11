@@ -3,7 +3,6 @@
     <div class="sidebar">
         <div class="logo-content">
             <div class="logo">
-                <img src="../img/logo.png" alt="">
                 <div class="logo-name">
                     Dashboard
                 </div>
